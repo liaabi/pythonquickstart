@@ -1,4 +1,3 @@
-pythonquickstart
-================
+The OpenShift `python` cartridge documentation can be found at:
 
-Logger application based on Python and MongoDB
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-python/README.md
